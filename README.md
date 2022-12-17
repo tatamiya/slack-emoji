@@ -4,4 +4,5 @@
 
 # 謝辞
 [MEGAMOJI](https://zk-phi.github.io/MEGAMOJI/)様
+
 作成した絵文字の大半はこちらで作成しました。
